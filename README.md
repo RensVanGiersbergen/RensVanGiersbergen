@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RensVanGiersbergen
+- 👀 I’m interested in programming
+- 🌱 I’m currently working on my study
